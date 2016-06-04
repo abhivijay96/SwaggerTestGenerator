@@ -7,3 +7,5 @@ File SwaggerTestGenerator/HK_internship/Proxy.cs is the proxy which is running a
 File SwaggerTestGenerator/HK_internship/Parameters.cs has some user defined classes which are used to map records to swagger operations.
 
 File SwaggerTestGenerator/HK_internship/Generates.json has some recorded requests.
+
+File SwaggerTestGenerator/HK_internship/generatedCode.cs has the generated code.
