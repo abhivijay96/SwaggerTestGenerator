@@ -68,7 +68,7 @@ namespace HK_internship
                 temp += map(Proxy.decode(line));
                 code += "\t\t\t" + temp+"\n";
             }
-            code += "\t\t}\n\t}\n}";
+            code += "\t}\n}";
            // file1.WriteLine("\t\t}\n\t}\n}");
             file.Close();
             //file1.Close();
