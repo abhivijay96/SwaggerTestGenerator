@@ -1,0 +1,23 @@
+c:\users\abhishek\documents\visual studio 2015\Projects\HK_internship\HK_internship\bin\Debug\HK_internship.exe.config
+C:\Users\Abhishek\Documents\Visual Studio 2015\Projects\HK_internship\HK_internship\bin\Debug\HK_internship.exe
+C:\Users\Abhishek\Documents\Visual Studio 2015\Projects\HK_internship\HK_internship\bin\Debug\HK_internship.pdb
+C:\Users\Abhishek\Documents\Visual Studio 2015\Projects\HK_internship\HK_internship\obj\Debug\HK_internship.Properties.Resources.resources
+C:\Users\Abhishek\Documents\Visual Studio 2015\Projects\HK_internship\HK_internship\obj\Debug\HK_internship.csproj.GenerateResource.Cache
+C:\Users\Abhishek\Documents\Visual Studio 2015\Projects\HK_internship\HK_internship\obj\Debug\HK_internship.exe
+C:\Users\Abhishek\Documents\Visual Studio 2015\Projects\HK_internship\HK_internship\obj\Debug\HK_internship.pdb
+C:\Users\Abhishek\Documents\Visual Studio 2015\Projects\HK_internship\HK_internship\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Abhishek\Documents\Visual Studio 2015\Projects\HK_internship\HK_internship\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abhishek\Documents\Visual Studio 2015\Projects\HK_internship\HK_internship\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Abhishek\Documents\Visual Studio 2015\Projects\HK_internship\HK_internship\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Abhishek\Desktop\HK_internship\HK_internship\obj\Debug\HK_internship.pdb
+C:\Users\Abhishek\Desktop\HK_internship\HK_internship\bin\Debug\HK_internship.pdb
+C:\Users\Abhishek\Desktop\HK_internship\HK_internship\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Abhishek\Desktop\HK_internship\HK_internship\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abhishek\Desktop\HK_internship\HK_internship\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Abhishek\Desktop\HK_internship\HK_internship\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Abhishek\Desktop\HK_internship\HK_internship\obj\Debug\HK_internship.csprojResolveAssemblyReference.cache
+C:\Users\Abhishek\Desktop\HK_internship\HK_internship\obj\Debug\HK_internship.Properties.Resources.resources
+C:\Users\Abhishek\Desktop\HK_internship\HK_internship\obj\Debug\HK_internship.csproj.GenerateResource.Cache
+C:\Users\Abhishek\Desktop\HK_internship\HK_internship\bin\Debug\HK_internship.exe.config
+C:\Users\Abhishek\Desktop\HK_internship\HK_internship\bin\Debug\HK_internship.exe
+C:\Users\Abhishek\Desktop\HK_internship\HK_internship\obj\Debug\HK_internship.exe
